@@ -1,5 +1,7 @@
 import jwt from "jsonwebtoken";
 
+// Привет
+
 import tokenModel from '../model/token.model';
 import {IUserCreate, IUserModel} from "../type";
 
